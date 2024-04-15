@@ -61,6 +61,12 @@ html
 /* --- REUSABLE CSS --- */
 
 /* --- GLOBAL BUTTON DESIGN --- */
+.btn .cv
+{
+    text-decoration: none;
+    color: #000;
+}
+
  .btn
  {
     font-weight: 500;
